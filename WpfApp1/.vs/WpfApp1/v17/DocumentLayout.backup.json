@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|c:\\users\\alfa\\desktop\\praktika\\pm02\\wpfapp1\\wpfapp1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\apiuserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\apiuserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\simpleapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\simpleapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\municipalolympiadscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\municipalolympiadscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\dbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\dbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\dataservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\dataservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\apiuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\apiuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\apidtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\apidtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\apidataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\apidataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\apiuserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\apiuserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\editdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\editdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\wpfapp1\\localapiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4466B-9626-4A3D-9D57-A85B0EA87395}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\localapiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\IApiService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\IApiService.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\IApiService.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:27:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleApiService.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\SimpleApiService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\SimpleApiService.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\SimpleApiService.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\SimpleApiService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:00:16.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MunicipalOlympiadsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\MunicipalOlympiadsContext.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\MunicipalOlympiadsContext.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\MunicipalOlympiadsContext.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\MunicipalOlympiadsContext.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwHUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:18:07.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAqwP8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:19:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:18:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiUsersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ApiUsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ApiUsersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ApiUsersWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ApiUsersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:09:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DBHelper.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DBHelper.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\DBHelper.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:17:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DbDataService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\DbDataService.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DbDataService.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\DbDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:28:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DataServiceFactory.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\DataServiceFactory.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\DataServiceFactory.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\DataServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:29:09.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiUserDto.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\ApiUserDto.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiUserDto.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\ApiUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:30:02.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiDtoModels.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiDtoModels.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\ApiDtoModels.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiDtoModels.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\ApiDtoModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:29:37.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiDataService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\ApiDataService.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiDataService.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\ApiDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:28:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:24:14.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiClient.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\Models\\ApiClient.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\ApiClient.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:26:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:19:33.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiUsersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ApiUsersWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ApiUsersWindow.xaml",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\ApiUsersWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ApiUsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-29T13:08:57.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocalApiServer.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\LocalApiServer.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\LocalApiServer.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\LocalApiServer.cs",
+              "RelativeToolTip": "WpfApp1\\LocalApiServer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAYwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:23:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\EditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\EditDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditDialog.xaml.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:19:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\EditDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditDialog.xaml",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\EditDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\EditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-29T11:18:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ALFA\\Desktop\\Praktika\\PM02\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-07T20:12:30.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
